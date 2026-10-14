@@ -2,7 +2,7 @@
 
 Founder, designer and NOT a developer, but I understand code. I work across product and user experience. I build small, opinionated tools that make design work faster, and products that get people off their screens and into real life.
 
-🌐 [Website](https://jordannina.framer.website/) · 🐦 [X](https://x.com/ninajordanyo) · 💼 [LinkedIn]([www.](https://)linkedin.com/in/nina-jordan)
+🌐 [Website](https://jordannina.framer.website/) · 🐦 [X](https://x.com/ninajordanyo) · 💼 [LinkedIn]([www.](https://linkedin.com/in/nina-jordan)
 
 ---
 
