@@ -1,6 +1,6 @@
 # Hi, I'm Nina 👋
 
-Founder, designer and developer in Stockholm. I work across product, UX, branding and code. I build small, opinionated tools that make design work faster, and products that get people off their screens and into real life.
+Founder, designer and NOT a developer, but I understand code. I work across product and user experience. I build small, opinionated tools that make design work faster, and products that get people off their screens and into real life.
 
 🌐 [Website](https://ninajo.github.io) · 🐦 [X](https://x.com/yourhandle) · 💼 [LinkedIn](https://linkedin.com/in/yourhandle)
 
