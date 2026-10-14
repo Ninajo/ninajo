@@ -6,7 +6,7 @@ Founder, designer and NOT a developer, but I understand code. I work across prod
 
 ---
 
-## 🆕 Now building: Winkka
+## 🆕 Now building: Vinkka
 
 An IRL-first social app launching in Södermalm, built for meeting people in real life rather than through a feed.
 
@@ -38,9 +38,7 @@ Small, opinionated tools built with Claude and the Anthropic API.
 
 Products I've designed and shipped with Lovable.
 
-<!-- Add one line per project once it's synced to GitHub:
-🚀 [**project-name**](https://github.com/Ninajo/project-name): One-line pitch · [Live demo](https://project.lovable.app)
--->
+TBD
 
 ---
 
